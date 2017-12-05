@@ -1,6 +1,6 @@
 ﻿https://www.codewars.com/users/EStormLynn/completed
 
-### Now Rank：6 kyu / 6%
+### Now Rank：5 kyu / 2%
 ![](https://www.codewars.com/users/EStormLynn/badges/large)
 
 Completed 
@@ -23,3 +23,12 @@ Completed
 
 ## 5 kyu
 * Weight for weight
+* String incrementer
+* Integers: Recreation One
+* Perimeter of squares in a rectangle
+* Counting Change Combinations
+* A Chain adding function
+
+## 4 kyu
+* IP Validation
+* Human readable duration format
